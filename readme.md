@@ -6,7 +6,7 @@ Tenkey++ is a USB-C hotswap numpad with the layout of a standard 10-key. Tenkey+
 
 * Keyboard Maintainer: [Jonathon Carstens](https://github.com/jonbobcar)
 * Hardware Source Files: [Tenkey++ GitHub Repository](https://github.com/jonbobcar/tenkey_plusplus)
-* Hardware Availability: [Tenkey++ on Tindie]()
+* Hardware Availability: [Tenkey++ on Tindie](https://www.tindie.com/products/lizardtrick/tenkey/)
 
 Make example for default layout (set up QMK build environment first):
 

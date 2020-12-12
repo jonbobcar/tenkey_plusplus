@@ -1,6 +1,6 @@
 # Tenkey++
 
-![TK++](https://imgur.com/a/rqKwFBt)
+![TK++](https://imgur.com/a/rqKwFBt "TK++")
 
 Tenkey++ is a USB-C hotswap numpad with the layout of a standard 10-key. Tenkey++ also has three rotary encoders at the top for additional functionality.
 
